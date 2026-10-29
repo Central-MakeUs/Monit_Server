@@ -1,3 +1,12 @@
+<img width="1280" height="968" alt="image" src="https://github.com/user-attachments/assets/7bc0abd1-d9a2-4a88-a043-74b6684c00e2" />
+
+
+[![Google Play](https://img.shields.io/badge/Google_Play-412991?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.monit.app&pcampaignid=web_share)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/모닛/id6759133655)
+
+---
+
+
 ## 🌿 브랜치 전략(반드시 확인하세요)
 
 | 브랜치 | 용도 | 직접 push |
